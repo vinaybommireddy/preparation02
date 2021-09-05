@@ -158,7 +158,7 @@ are currently in your `preparation02` folder that currently has three
 files (`.gitignore`, `preparation02.Rproj`, and `README.md`) and a
 folder (`README-img/`).
 
-### ☑️ Tasks 5: Clone GitHub repo
+### ☑️ Tasks 5: Create, Edit, Commit, and Push
 
 Before we wrap-up, we will create a new file and see how to commit these
 changes and view the commit history.
