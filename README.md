@@ -183,10 +183,13 @@ changes and view the commit history.
 6.  In the pop-up, provide a commit message of
     `Adding some calculations`, then click on **Commit**, and
 7.  In this same pop-up, switch from **Changes** to **History**
-    (upper-left corner)
+    (upper-left corner).
 
 Reflect on how this way of looking through your commit history compares
 to GitHub. Feel free to add more to your R script, save, and commit.
+
+To update GitHub with these changes, in the **Git** pane of RStudio
+click on ![push icon](README-img/push-icon.png) **Push**.
 
 ### ☑️ Tasks 6: Wrapping Up
 
